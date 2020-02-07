@@ -5,6 +5,6 @@ addons:
   sonarcloud:
     organization: "simonefesta"
     token:
-      secure: "08c6353451ad0bc8102d3d502706a7d716724355" # encrypted value of your token
+      secure: "00b766c6703ae0007b8764956c378380ee35c6b8" # encrypted value of your token
             
 script: ant build
