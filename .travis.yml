@@ -5,8 +5,8 @@ jdk :
     
 addons:
     sonarcloud:
-        organization: simonefesta
-        token: 21f7272531a35698c8dbc8e5cb563e61bad0897d
+        organization: "simonefesta"
+        token: "21f7272531a35698c8dbc8e5cb563e61bad0897d"
         
 script: 
 - ant build
