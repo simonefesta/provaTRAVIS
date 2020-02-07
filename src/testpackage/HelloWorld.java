@@ -12,8 +12,7 @@ import java.util.logging.Logger;
 public class HelloWorld {
 	public static void main(String[] args) {
 		 Logger logger = Logger.getLogger(HelloWorld.class.getName());
-		 logger.info("Hello World");
-		 System.out.println("ciao bella");
+		 logger.info("Hello World v2");
 	}
 
 }
